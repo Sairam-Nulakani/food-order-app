@@ -6,7 +6,7 @@ import CartIcon from "./CartIcon";
 const links = [
   {
     id: 1,
-    title: "Homepage",
+    title: "Home",
     url: "/",
   },
   {
